@@ -1,5 +1,5 @@
 ![MasterHead](https://media4.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47t7n8v90t1tf909qu6d8k7ook7pjrk3jolsymoqdz&rid=giphy.gif&ct=g)
-<h1 align="center">Hi 👋🔥, I'm Hamza Naseer</h1>
+<h1 align="center">Hi 👋, I'm Hamza Naseer</h1>
 <h3 align="center">A passionate MERN stack developer.</h3>
 <img align="right" alt="coding" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
